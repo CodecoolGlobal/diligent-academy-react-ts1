@@ -1,1 +1,6 @@
-# diligent-academy-react-ts1
+- https://react.dev/reference/react
+- https://create-react-app.dev/docs/getting-started/
+- https://www.freecodecamp.org/news/how-to-use-props-in-react/
+- https://react.dev/learn/updating-objects-in-state
+- https://react.dev/reference/react/useState
+- https://react.dev/learn/conditional-rendering
